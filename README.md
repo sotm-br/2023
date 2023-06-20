@@ -1,4 +1,8 @@
-# State of the Map 2022 Website
+# State of the Map Brasil 2023 Website
+
+  cópia (fork do repositório do evento global do ano passado!)
+
+###
 
 This repo is the Jekyll configuration, styles and content powering https://2022.stateofthemap.org
 
