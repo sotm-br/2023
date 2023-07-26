@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page-with-toc
 title: "2022 Posters"
 titlecontent: ""
@@ -150,4 +150,4 @@ Many followed the call for posters and the results are AMAZING. We thank all par
 
 <h2 id="38">Clear around Ukraine and Utilize support</h2>
 
-[<img src="../img/posters/38.jpg" style="max-height:351px; max-width:351px;">](https://files.osmfoundation.org/s/tyHGTRwX2SdSFjM)
+[<img src="../img/posters/38.jpg" style="max-height:351px; max-width:351px;">](https://files.osmfoundation.org/s/tyHGTRwX2SdSFjM) -->
