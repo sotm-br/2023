@@ -21,17 +21,17 @@ Curitiba possui lugares belíssimos para visitação! A cidade conta com o ônib
 
 <script>
   document.addEventListener('DOMContentLoaded', function() {
-    var map = L.map('map').setView([43.79, 11.25], 13);
+    var map = L.map('map').setView([-25.45055,-49.23235], 13);
     L.control.scale().addTo(map);
     L.tileLayer('{{ site.map_tiles.url}}', {
       attribution: '{{ site.map_tiles.attribution }}',
       maxZoom: {{ site.map_tiles.maxZoom}}
     }).addTo(map);
     map.scrollWheelZoom.disable();
-    L.marker([43.80054, 11.24501], {icon: L.icon({
+    L.marker([-25.45055,-49.23235], {icon: L.icon({
       iconUrl: "{{ "/img/logo/sotm_br-logo.svg" | prepend: site.baseurl }}",
       iconSize: [40, 40],
       iconAnchor: [20, 40]
-    })}).bindPopup("<h3>Centro Didattico Morgagni</h3><p>Conference Venue. <a href='https://www.openstreetmap.org/?mlat=43.80104&mlon=11.24516#map=18/43.80104/11.24516' target='_blank'>Open location on osm.org</a>.</p>").addTo(map);
+    })}).bindPopup("<h3>Campus Politécnico</h3><p>Local do Evento <a href='https://www.openstreetmap.org/?mlat=-25.4505&mlon=-49.23246#map=19/-25.45055/-49.23235' target='_blank'>Open location on osm.org</a>.</p>").addTo(map);
   }, false);
 </script>
