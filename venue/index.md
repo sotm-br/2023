@@ -1,7 +1,7 @@
 ---
 layout: page-with-toc
 #title: Venue &amp; Transportation
-title: Venue
+title: Localização
 headings: "conference-venue,getting-to,sights"
 ---
 
