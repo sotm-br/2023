@@ -12,12 +12,12 @@ markdown: kramdown
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary-dark: '#faffff' # yellow
-  primary-light: '#6ed487' # red
+  primary-light: '#38bd59' # red
   background-light: '#faffff'
-  links: '#6ed487'
+  links: '#38bd59'
   links-light: '#b7d7e1'
   links-white: '#fff'
-  text: '#030304'
+  text: '#030304' #6ed487
   text-light: '#fff'
 
 # Settings for map tiles used in leaflet maps
