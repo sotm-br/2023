@@ -1,13 +1,13 @@
 <!-- ---
 layout: page-with-toc
-title: "Travel Grant Programme"
+title: "Travel Grant Programação"
 titlecontent: ""
 headings: "for-applicants,online,criteria,payment,apply"
 ---
 
-The State of the Map Organizing Committee provides a Travel Grant Programme (TGP) to facilitate accessibility and diversity at the global SotM 2022 Conference, which will happen in Firenze, Italy, August 19-21. This will be the first in-person OSM global event since the disruptions caused by COVID-19, and while the pandemic is still not over, we hope to bring as many participants together as the funds and health regulations will allow. Given the circumstances, the programme will also dedicate a portion of the budget available to support remote attendance (e.g. by providing access to reliable internet connection) for those who will not be able to travel to Italy because of imposed restrictions, travel costs, or other reasons.
+The State of the Map Organizing Committee provides a Travel Grant Programação (TGP) to facilitate accessibility and diversity at the global SotM 2022 Conference, which will happen in Firenze, Italy, August 19-21. This will be the first in-person OSM global event since the disruptions caused by COVID-19, and while the pandemic is still not over, we hope to bring as many participants together as the funds and health regulations will allow. Given the circumstances, the Programação will also dedicate a portion of the budget available to support remote attendance (e.g. by providing access to reliable internet connection) for those who will not be able to travel to Italy because of imposed restrictions, travel costs, or other reasons.
 
-The call for applications to the Travel Grant Programme was opens until May 6, 2022.
+The call for applications to the Travel Grant Programação was opens until May 6, 2022.
 
 <h2 id="for-applicants">For applicants</h2>
 
@@ -37,9 +37,9 @@ With an estimate of 1GB per hour of streaming videos in HD quality (720p), it’
 
 <h2 id="criteria">Criteria</h2>
 
-In order to guarantee a transparent and fair allocation of funds, the travel grant programme uses a points system for ranking applications. Points are awarded if applicants match specific criteria. After the application phase is over, all applicants are ranked by points, and the applicants with the most points will receive funding.
+In order to guarantee a transparent and fair allocation of funds, the travel grant Programação uses a points system for ranking applications. Points are awarded if applicants match specific criteria. After the application phase is over, all applicants are ranked by points, and the applicants with the most points will receive funding.
 
-Please note that the purpose of the travel grant programme is to enhance diversity at the conference. We might reserve a few programme spots for people with unique and outstanding applications. However, the majority of programme spots will solely be determined by the point ranking.
+Please note that the purpose of the travel grant Programação is to enhance diversity at the conference. We might reserve a few Programação spots for people with unique and outstanding applications. However, the majority of Programação spots will solely be determined by the point ranking.
 
 Applicants receive points for the following criteria:
 
@@ -94,6 +94,6 @@ Applications must be received by May 6, 2022.
 
 The selection committee will aim to notify recipients of grants by May 13.
 
-## Supporting the Travel Grant Programme
+## Supporting the Travel Grant Programação
 
-The travel grant programme is funded through the State of the Map Sponsors. -->
+The travel grant Programação is funded through the State of the Map Sponsors. -->
