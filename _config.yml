@@ -15,7 +15,7 @@ color:
   primary-light: '#38bd59' # red
   background-light: '#faffff'
   links: '#38bd59'
-  links-light: '#b7d7e1'
+  links-light: '#00FFFFFF'
   links-white: '#F0FAF3'
   text: '#030304' #6ed487
   text-light: '#F0FAF3'
