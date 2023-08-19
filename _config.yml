@@ -16,9 +16,9 @@ color:
   background-light: '#faffff'
   links: '#38bd59'
   links-light: '#00FFFFFF'
-  links-white: '#F0FAF3'
+  links-white: '#00FFFFFF'
   text: '#030304' #6ed487
-  text-light: '#F0FAF3'
+  text-light: '#00FFFFFF'
 
 # Settings for map tiles used in leaflet maps
 map_tiles:
