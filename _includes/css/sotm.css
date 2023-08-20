@@ -495,6 +495,7 @@ ul.banner-social-buttons li {
 
 footer {
     padding: 50px 0;
+    margin: 5px;
     color: {{ site.color.links-white }};
 }
 
@@ -777,7 +778,8 @@ nav .navbar-brand {
 }
 
 #sponsor {
-    padding: 1%;
+    padding: 5px;
+
 }
 
 #sponsors a img {
