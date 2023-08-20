@@ -15,10 +15,10 @@ color:
   primary-light: '#38bd59' # red
   background-light: '#faffff'
   links: '#38bd59'
-  links-light: '#00FFFFFF'
-  links-white: '#00FFFFFF'
+  links-light: '#ebfffd'
+  links-white: '#ebfffd'
   text: '#030304' #6ed487
-  text-light: '#00FFFFFF'
+  text-light: '#ebfffd'
 
 # Settings for map tiles used in leaflet maps
 map_tiles:
