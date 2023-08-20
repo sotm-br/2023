@@ -785,6 +785,7 @@ nav .navbar-brand {
     filter: grayscale(1) invert(1);
     display: inline-block;
     max-width: 100%;
+    padding: 1%;
 }
 
 #sponsors .sponsor img {
