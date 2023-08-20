@@ -495,7 +495,7 @@ ul.banner-social-buttons li {
 
 footer {
     padding: 50px 0;
-    margin: 5px;
+    margin-top: 5px;
     color: {{ site.color.links-white }};
 }
 
