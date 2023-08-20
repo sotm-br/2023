@@ -75,7 +75,9 @@ div.affix {
 }
 
 .navbar, .navbar a, .navbar a:hover {
-    color: {{ site.color.links-light }};
+    /*color: {{ site.color.links-light }};*/
+    color: transparent;
+    color: rgba(0,0,0,0);
 }
 
 .top-nav-collapse, .top-nav-collapse a, .top-nav-collapse a:hover,
