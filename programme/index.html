@@ -6,6 +6,7 @@ headings: "general_Friday,general_Saturday,general_Sunday,breakout"
 ---
 
 <style>
+
     iframe {
         width:1000px;
         height: 700px;
@@ -15,8 +16,14 @@ headings: "general_Friday,general_Saturday,general_Sunday,breakout"
 
     h1{
         padding-top: 5%;
+        text-align: center;
     }
 
+    .name{
+        display: none;
+        visibility: hidden;
+        font-size: 0px;
+    }
 
 </style>
 
@@ -24,9 +31,15 @@ headings: "general_Friday,general_Saturday,general_Sunday,breakout"
 
 <!-- <a href="https://sotm-br.github.io/2023/programacao_preliminar.html">Confira aqui a programação preliminar!!</a> -->
 
+<script>
+   window.onload = function() {
+   let myiFrame = document.getElementById("gdddd");
+   let doc = myiFrame.contentDocument;
+   doc.body.innerHTML = doc.body.innerHTML + '<style> .name{display: none; visibility:hidden; font-size: 0px;} </style>';
+}     
+</script>
 
-
-<iframe name="Programação Simplificada" allowfullscreen="true" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRQrbXr_Njk555E4EVArc9rFuSvEA2ByDut5wTKbcaLQulyR32cmdyWcwSbIEtYf1S4SaQ_v-rkcPez/pubhtml?gid=2020432516&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe id="gdddd" name="Programação Simplificada" allowfullscreen="true" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRQrbXr_Njk555E4EVArc9rFuSvEA2ByDut5wTKbcaLQulyR32cmdyWcwSbIEtYf1S4SaQ_v-rkcPez/pubhtml?gid=2020432516&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 <br>
 
