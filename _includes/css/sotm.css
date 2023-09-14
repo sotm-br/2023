@@ -83,7 +83,8 @@ div.affix {
 
 .top-nav-collapse, .top-nav-collapse a, .top-nav-collapse a:hover,
 .navbar.stay-collapsed, .navbar.stay-collapsed a, .navbar.stay-collapsed a:hover {
-    color: {{ site.color.links }};
+    /*color: {{ site.color.links }};*/
+    color: rgba(28,28,28,0);
 }
 
 
