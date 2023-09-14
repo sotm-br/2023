@@ -45,7 +45,7 @@ Curitiba também conta com o tour da [Linha Turismo](https://www.urbs.curitiba.p
 
 Vale conferir ainda as [feiras livres](https://turismo.curitiba.pr.gov.br/conteudo/feiras/46) que acontecem em diversos locais ao longo da semana, oferecendo artesanato, gastronomia e hortifruti
 
-Outra atração popular é o [Trem da Serra do Mar](https://serraverdeexpress.com.br/o-trem/), uma linha turística que sai da Rodoferroviária de Curitiba e desce a Serra do Mar até a cidade de Morretes
+Outra atração popular é o [Trem da Serra do Mar](https://serraverdeexpress.com.br/o-trem/), uma linha turística que sai da Rodoferroviária de Curitiba e desce a Serra do Mar até a cidade de Morretes.
 
 <script>
   document.addEventListener('DOMContentLoaded', function() {
