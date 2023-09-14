@@ -75,16 +75,16 @@ div.affix {
 }
 
 .navbar, .navbar a, .navbar a:hover {
-    /* color: {{ site.color.links-light }};*/
+   color: {{ site.color.links-light }};
    /*color: transparent;*/
    /*color: rgba(0,0,0,0);*/
-     color: rgba(28,28,28,0);
+
 }
 
 .top-nav-collapse, .top-nav-collapse a, .top-nav-collapse a:hover,
 .navbar.stay-collapsed, .navbar.stay-collapsed a, .navbar.stay-collapsed a:hover {
-    /*color: {{ site.color.links }};*/
-    color: rgba(28,28,28,0);
+    color: {{ site.color.links }};
+      
 }
 
 
