@@ -9,9 +9,9 @@ headings: "conference-Local,getting-to,sights"
 
 O State of the Map 2023 Será Realizado no Centro Politécnico da UFPR, localizado na Avenida Coronel Francisco H. dos Santos, 100 – Jardim das Américas, Curitiba, PR. A principal entrada do câmpus fica na Avenida Coronel Francisco Heráclito dos Santos e as atividades do evento serão realizadas no auditório do prédio da Administração, indicado no mapa:
 
-<!-- <div id="map" style="height:420px; width:100%"></div> -->
+<div id="map" style="height:420px; width:100%"></div>
 
-<iframe id="webmap" name="Mapa" allowfullscreen="true" src="https://github.com/sotm-br/2023/blob/main/venue_test/map/index.html"></iframe>
+<!-- <iframe id="webmap" name="Mapa" allowfullscreen="true" src="https://github.com/sotm-br/2023/blob/main/venue_test/map/index.html"></iframe> -->
 
 <h2 class='space-bottom1' id='getting-to'>Acesso</h2>
 
@@ -49,19 +49,133 @@ Vale conferir ainda as [feiras livres](https://turismo.curitiba.pr.gov.br/conteu
 
 Outra atração popular é o [Trem da Serra do Mar](https://serraverdeexpress.com.br/o-trem/), uma linha turística que sai da Rodoferroviária de Curitiba e desce a Serra do Mar até a cidade de Morretes.
 
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    var map = L.map('map').setView([-25.45055,-49.23235], 13);
-    L.control.scale().addTo(map);
-    L.tileLayer('{{ site.map_tiles.url}}', {
-      attribution: '{{ site.map_tiles.attribution }}',
-      maxZoom: {{ site.map_tiles.maxZoom}}
-    }).addTo(map);
-    map.scrollWheelZoom.disable();
-    L.marker([-25.45055,-49.23235], {icon: L.icon({
-      iconUrl: "{{ "/img/logo/sotm_br-logo.svg" | prepend: site.baseurl }}",
+
+        <script src="js/qgis2web_expressions.js"></script>
+        <script src="js/leaflet.js"></script>
+        <script src="js/leaflet.rotatedMarker.js"></script>
+        <script src="js/leaflet.pattern.js"></script>
+        <script src="js/leaflet-hash.js"></script>
+        <script src="js/Autolinker.min.js"></script>
+        <script src="js/rbush.min.js"></script>
+        <script src="js/labelgun.min.js"></script>
+        <script src="js/labels.js"></script>
+        <script src="data/r_1.js"></script>
+        <script src="data/p_2.js"></script>
+        <script>
+        var map = L.map('map', {
+            zoomControl:true, maxZoom:28, minZoom:1
+        }).fitBounds([[-25.453360610482214,-49.23600065126667],[-25.449083527024083,-49.22879623785266]]);
+        var hash = new L.Hash(map);
+        map.attributionControl.setPrefix('<a href="https://github.com/tomchadwin/qgis2web" target="_blank">qgis2web</a> &middot; <a href="https://leafletjs.com" title="A JS library for interactive maps">Leaflet</a> &middot; <a href="https://qgis.org">QGIS</a>');
+        var autolinker = new Autolinker({truncate: {length: 30, location: 'smart'}});
+        var bounds_group = new L.featureGroup([]);
+        function setBounds() {
+        }
+        map.createPane('pane_OSMStandard_0');
+        map.getPane('pane_OSMStandard_0').style.zIndex = 400;
+        var layer_OSMStandard_0 = L.tileLayer('http://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            pane: 'pane_OSMStandard_0',
+            opacity: 1.0,
+            attribution: '<a href="https://www.openstreetmap.org/copyright">© OpenStreetMap contributors, CC-BY-SA</a>',
+            minZoom: 1,
+            maxZoom: 28,
+            minNativeZoom: 0,
+            maxNativeZoom: 19
+        });
+        layer_OSMStandard_0;
+        map.addLayer(layer_OSMStandard_0);
+        function pop_r_1(feature, layer) {
+            var popupContent = '<table>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['rota'] !== null ? autolinker.link(feature.properties['rota'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                </table>';
+            layer.bindPopup(popupContent, {maxHeight: 400});
+        }
+
+        function style_r_1_0() {
+            return {
+                pane: 'pane_r_1',
+                opacity: 1,
+                color: 'rgba(255,1,1,0.3)',
+                dashArray: '',
+                lineCap: 'round',
+                lineJoin: 'round',
+                weight: 5.0,
+                fillOpacity: 0,
+                interactive: true,
+            }
+        }
+        map.createPane('pane_r_1');
+        map.getPane('pane_r_1').style.zIndex = 401;
+        map.getPane('pane_r_1').style['mix-blend-mode'] = 'normal';
+        var layer_r_1 = new L.geoJson(json_r_1, {
+            attribution: '',
+            interactive: true,
+            dataVar: 'json_r_1',
+            layerName: 'layer_r_1',
+            pane: 'pane_r_1',
+            onEachFeature: pop_r_1,
+            style: style_r_1_0,
+        });
+        bounds_group.addLayer(layer_r_1);
+        map.addLayer(layer_r_1);
+        function pop_p_2(feature, layer) {
+            var popupContent = '<table>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['local'] !== null ? autolinker.link(feature.properties['local'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['andar'] !== null ? autolinker.link(feature.properties['andar'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                </table>';
+            layer.bindPopup(popupContent, {maxHeight: 400});
+        }
+
+        function style_p_2_0() {
+            return {
+                pane: 'pane_p_2',
+                radius: 10.0,
+                opacity: 1,
+                color: 'rgba(255,5,1,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 3.0,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(140,222,57,0.0)',
+                interactive: true,
+            }
+        }
+
+        L.marker([-25.45055,-49.23235], {icon: L.icon({
+      iconUrl: 'https://github.com/sotm-br/2023/blob/main/img/logo/sotm_br-logo.svg',
       iconSize: [40, 40],
       iconAnchor: [20, 40]
-    })}).bindPopup("<h3>Campus Politécnico</h3><p>Local do Evento <a href='https://www.openstreetmap.org/?mlat=-25.4505&mlon=-49.23246#map=19/-25.45055/-49.23235' target='_blank'>Open location on osm.org</a>.</p>").addTo(map);
-  }, false);
-</script>
+        })}).bindPopup("<h3>Campus Politécnico</h3><p>Local do Evento <a href='https://www.openstreetmap.org/?mlat=-25.4505&mlon=-49.23246#map=19/-25.45055/-49.23235' target='_blank'>Open location on osm.org</a>.</p>").addTo(map);
+
+        map.createPane('pane_p_2');
+        map.getPane('pane_p_2').style.zIndex = 402;
+        map.getPane('pane_p_2').style['mix-blend-mode'] = 'normal';
+        var layer_p_2 = new L.geoJson(json_p_2, {
+            attribution: '',
+            interactive: true,
+            dataVar: 'json_p_2',
+            layerName: 'layer_p_2',
+            pane: 'pane_p_2',
+            onEachFeature: pop_p_2,
+            pointToLayer: function (feature, latlng) {
+                var context = {
+                    feature: feature,
+                    variables: {}
+                };
+                return L.circleMarker(latlng, style_p_2_0(feature));
+            },
+        });
+        bounds_group.addLayer(layer_p_2);
+        map.addLayer(layer_p_2);
+        setBounds();
+
+
+        </script>
