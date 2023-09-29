@@ -9,7 +9,9 @@ headings: "conference-Local,getting-to,sights"
 
 O State of the Map 2023 Será Realizado no Centro Politécnico da UFPR, localizado na Avenida Coronel Francisco H. dos Santos, 100 – Jardim das Américas, Curitiba, PR. A principal entrada do câmpus fica na Avenida Coronel Francisco Heráclito dos Santos e as atividades do evento serão realizadas no auditório do prédio da Administração, indicado no mapa:
 
-<div id="map" style="height:420px; width:100%"></div>
+<!-- <div id="map" style="height:420px; width:100%"></div> -->
+
+<iframe id="webmap" name="Mapa" allowfullscreen="true" src="https://github.com/sotm-br/2023/blob/main/venue_test/map/index.html"></iframe>
 
 <h2 class='space-bottom1' id='getting-to'>Acesso</h2>
 
