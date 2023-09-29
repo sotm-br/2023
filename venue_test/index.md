@@ -5,6 +5,23 @@ title: Localização
 headings: "conference-Local,getting-to,sights"
 ---
 
+  <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width">
+      <meta name="mobile-web-app-capable" content="yes">
+      <meta name="apple-mobile-web-app-capable" content="yes">
+      <link rel="stylesheet" href="css/leaflet.css">
+      <link rel="stylesheet" href="css/qgis2web.css"><link rel="stylesheet" href="css/fontawesome-all.min.css">
+      <style>
+      #map {
+          width: 1345px;
+          height: 885px;
+      }
+      </style>
+      <title></title>
+  </head>
+
 <h2 class='space-bottom1' id='conference-Local'>Local</h2>
 
 O State of the Map 2023 Será Realizado no Centro Politécnico da UFPR, localizado na Avenida Coronel Francisco H. dos Santos, 100 – Jardim das Américas, Curitiba, PR. A principal entrada do câmpus fica na Avenida Coronel Francisco Heráclito dos Santos e as atividades do evento serão realizadas no auditório do prédio da Administração, indicado no mapa:
