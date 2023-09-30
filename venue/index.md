@@ -56,10 +56,10 @@ Outra atração popular é o [Trem da Serra do Mar](https://serraverdeexpress.co
       maxZoom: {{ site.map_tiles.maxZoom}}
     }).addTo(map);
     map.scrollWheelZoom.disable();
-    L.marker([-25.45055,-49.23235], {icon: L.icon({
+    L.marker([ -25.4505655, -49.2324812], {icon: L.icon({
       iconUrl: "{{ "/img/logo/sotm_br-logo.svg" | prepend: site.baseurl }}",
       iconSize: [40, 40],
       iconAnchor: [20, 40]
-    })}).bindPopup("<h3>Campus Politécnico</h3><p>Local do Evento <a href='https://www.openstreetmap.org/?mlat=-25.4505&mlon=-49.23246#map=19/-25.45055/-49.23235' target='_blank'>Open location on osm.org</a>.</p>").addTo(map);
+    })}).bindPopup("<h3>Campus Politécnico</h3><p>Local do Evento <a href='https://www.openstreetmap.org/node/11142398666' target='_blank'>Open location on osm.org</a>.</p>").addTo(map);
   }, false);
 </script>
