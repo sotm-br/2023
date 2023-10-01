@@ -1,9 +1,11 @@
-<!-- ---
-layout: page-with-toc
-title: "2022 Posters"
-titlecontent: ""
-headings: "01,02,03,04,07,09,10,11,12,14,15,16,17,18,19,20,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,38"
 ---
+layout: page-with-toc
+title: "Pôsteres"
+titlecontent: ""
+headings: "1,2,3,4,7,9,10,11,12"
+---
+
+
 
 <style>
   body {
@@ -20,134 +22,53 @@ headings: "01,02,03,04,07,09,10,11,12,14,15,16,17,18,19,20,22,23,24,25,26,27,28,
   }
 </style>
 
-Many followed the call for posters and the results are AMAZING. We thank all participants for the great work! Some more information can be found on our [call for posters](/calls/posters) page.
+<!-- Many followed the call for posters and the results are AMAZING. We thank all participants for the great work! Some more information can be found on our [call for posters](/calls/posters) page. -->
 
-*Please click on thumbnail to download PDF*
+Aqui estão os pôsteres que foram enviados!! 
 
-<h2 id="01">Important of OSM for Sri Lankan community</h2>
+*clique nas miniaturas para baixar os arquivos PDF*
 
-[<img src="../img/posters/01.jpg" style="max-height:351px; max-width:351px;">](https://files.osmfoundation.org/s/QXi968oMooipPWX)
 
-<h2 id="02">Crowd2Map</h2>
+<h2 id="1">ISe ache na UFBA: o mapa do calouro perdido!</h2>
 
-[<img src="../img/posters/02.jpg" style="max-height:351px; max-width:351px;">](https://files.osmfoundation.org/s/fykAgNwr8tJpGyT)
+[<img src="/thumbnails/1.jpg" style="max-height:200px; max-width:200px;">](/pdf/1_sanu - poster (2) - Pedro Maciel.pdf)
 
-<h2 id="03">OSM Monitoring Tool</h2>
+<h2 id="2">IImagens a nível da rua auxiliando o acompanhamento de obras de infraestrutura</h2>
 
-[<img src="../img/posters/03.jpg" style="max-height:351px; max-width:351px;">](https://files.osmfoundation.org/s/LSnb3TqrH62zrHN)
+[<img src="/thumbnails/2.jpg" style="max-height:200px; max-width:200px;">](/pdf/2_Poster_Luiz_Melo - Luiz Melo.pdf)
 
-<h2 id="04">Quality Check of the Links from OpenStreetMap to Wikidata</h2>
+<h2 id="3">IOpenStreetMap como ferramenta colaborativa de mapeamento de comunidades faxinalenses no Paraná</h2>
 
-[<img src="../img/posters/04.jpg" style="max-height:351px; max-width:351px;">](https://files.osmfoundation.org/s/CMPYdRKmbDxBkrn)
+[<img src="/thumbnails/3.jpg" style="max-height:200px; max-width:200px;">](/pdf/3_Poster_SOTMB_2023_Jonathan_Maurielle.pptx - Jonathan Seronato.pdf)
 
-<h2 id="07">Quantifying Europe's cycling infrastructure using OpenStreetMap</h2>
+<h2 id="4">IO uso de uma dashboard de dados abertos no planejamento urbano</h2>
 
-[<img src="../img/posters/07.jpg" style="max-height:351px; max-width:351px;">](https://files.osmfoundation.org/s/aDcLGHjtqP8PcJ5)
+[<img src="/thumbnails/4.jpg" style="max-height:200px; max-width:200px;">](/pdf/4_poster_jaqueline.pdf)
 
-<h2 id="09">Finding Grace - Mapping huts in Northern Uganda</h2>
+<h2 id="6">IA geovisualização de desastres a partir do uso do story map como um recurso informativo</h2>
 
-[<img src="../img/posters/09.jpg" style="max-height:351px; max-width:351px;">](https://files.osmfoundation.org/s/xE5J45FjTrLN9if)
+[<img src="/thumbnails/6.jpg" style="max-height:200px; max-width:200px;">](/pdf/6_a geovisualização de desastres a partir do uso do story map como um recurso educativo um relato de experiência do geodesastres youthmappers.pptx - Thaila Silva.pdf)
 
-<h2 id="10">Using OSM for real-time crowdsourced air-quality monitoring</h2>
+<h2 id="7">IRequisitos cartográficos presentes na plataforma de mapeamento colaborativo Mais Lugar</h2>
 
-[<img src="../img/posters/10.jpg" style="max-height:351px; max-width:351px;">](https://files.osmfoundation.org/s/TwsSq9kdEZ4EH2k)
+[<img src="/thumbnails/7.jpg" style="max-height:200px; max-width:200px;">](/pdf/7_Poster_43_apresentacao - Marbrisa Reis.pdf)
 
-<h2 id="11">OpenSidewalkMap</h2>
+<h2 id="8">IPotencialidades do mapeamento colaborativo na gestão territorial em áreas de assentamentos rurais</h2>
 
-[<img src="../img/posters/11.jpg" style="max-height:351px; max-width:351px;">](https://files.osmfoundation.org/s/RRk9zSzjkPxz7kM)
+[<img src="/thumbnails/8.jpg" style="max-height:200px; max-width:200px;">](/pdf/8_Rosa et al_230928_210536 - Nicolas Santos.pdf)
 
-<h2 id="12">Mapping the Public Bus System of Minas Gerais, Brazil: Processing Difficult Datasets with OpenStreetMap</h2>
+<h2 id="9">IMapeamento de resíduos de açaí no município de Castanhal no estado do Pará</h2>
 
-[<img src="../img/posters/12.jpg" style="max-height:351px; max-width:351px;">](https://files.osmfoundation.org/s/YyBKYjKZGLTfKyK)
+[<img src="/thumbnails/9.jpg" style="max-height:200px; max-width:200px;">](/pdf/9_Poster_trabalho1.pptx - Dolores Nascimento.pdf)
 
-<h2 id="14">Mappers in Support of Peacekeeping</h2>
+<h2 id="10">IMapeamento aberto: construindo oportunidades</h2>
 
-[<img src="../img/posters/14.jpg" style="max-height:351px; max-width:351px;">](https://files.osmfoundation.org/s/qJKo5wwGjnywgys)
+[<img src="/thumbnails/10.jpg" style="max-height:200px; max-width:200px;">](/pdf/10_Mapeamento aberto_construindo oportunidades - Julia Lopes De Lopes.pdf)
 
-<h2 id="15">Land Cover Mapping in Africa</h2>
+<h2 id="11">IProposta de Siglas Oficiais Para Municípios: Um Geocódigo de Três Letras Mnemônicas</h2>
 
-[<img src="../img/posters/15.jpg" style="max-height:351px; max-width:351px;">](https://files.osmfoundation.org/s/HJkcS9atHReQTYL)
+[<img src="/thumbnails/11.jpg" style="max-height:200px; max-width:200px;">](/pdf/11_MARSITCH and KRAUSS - Siglas Mnemônicas dos Municípios Brasileiros (2023).pdf)
 
-<h2 id="16">Change detection analysis using remote sensing and OSM: A case study of Beirut</h2>
+<h2 id="12">IOpenstreetmap Na Olimpíada Brasileira De Cartografia - Obrac 2023</h2>
 
-[<img src="../img/posters/16.jpg" style="max-height:351px; max-width:351px;">](https://files.osmfoundation.org/s/qgHCPFBW8qc4rye)
-
-<h2 id="17">Atlas Urbano Py: Urban characterization with OpenStreetMap and Mapillary</h2>
-
-[<img src="../img/posters/17.jpg" style="max-height:351px; max-width:351px;">](https://files.osmfoundation.org/s/8tTkS5ApQ3GPFj7)
-
-<h2 id="18">Will this be updated? Rethinking OSM temporal quality beyond numbers</h2>
-
-[<img src="../img/posters/18.jpg" style="max-height:351px; max-width:351px;">](https://files.osmfoundation.org/s/wZ3sm9MHjNpMr33)
-
-<h2 id="19">Contributor determinants affecting data quality in OpenStreetMap: A case study for European Railway Contributors</h2>
-
-[<img src="../img/posters/19.jpg" style="max-height:351px; max-width:351px;">](https://files.osmfoundation.org/s/tx6AgC8TNTydDLA)
-
-<h2 id="20">Mapping on OpenStreetMap to improve access to health care in a rural district of Madagascar</h2>
-
-[<img src="../img/posters/20.jpg" style="max-height:351px; max-width:351px;">](https://files.osmfoundation.org/s/kiZ6Q66cC574w6a)
-
-<h2 id="22">Assessing households’ potable water access in Sibi in the Nkwanta North District - Ghana</h2>
-
-[<img src="../img/posters/22.jpg" style="max-height:351px; max-width:351px;">](https://files.osmfoundation.org/s/36fDHTFmWs82yNJ)
-
-<h2 id="23">Marinduque loop for bikers</h2>
-
-[<img src="../img/posters/23.jpg" style="max-height:351px; max-width:351px;">](https://files.osmfoundation.org/s/ZngSfLFdBSiYQER)
-
-<h2 id="24">Disaster Mapping Prioritization in OpenStreetMap</h2>
-
-[<img src="../img/posters/24.jpg" style="max-height:351px; max-width:351px;">](https://files.osmfoundation.org/s/eB7osW7aSTbNHAC)
-
-<h2 id="25">Roma settlements mapping: Community Mapping in Eastern Slovakia</h2>
-
-[<img src="../img/posters/25.jpg" style="max-height:351px; max-width:351px;">](https://files.osmfoundation.org/s/iQpLxK4d6EADDYA)
-
-<h2 id="26">Access to safe abortion in Germany</h2>
-
-[<img src="../img/posters/26.jpg" style="max-height:351px; max-width:351px;">](https://files.osmfoundation.org/s/MfweMaQyzaZiQ4p)
-
-<h2 id="27">ArcGIS Renderer for OpenStreetMap</h2>
-
-[<img src="../img/posters/27.jpg" style="max-height:351px; max-width:351px;">](https://files.osmfoundation.org/s/xDdDz3rpQX2C7FJ)
-
-<h2 id="28">Development of UNVT Portable, a map server with OpenStreetMap pre-installed using a RaspberryPi on a local network in offline situations during disasters</h2>
-
-[<img src="../img/posters/28.jpg" style="max-height:351px; max-width:351px;">](https://files.osmfoundation.org/s/JBQyGxzFXYZoxKQ)
-
-<h2 id="29">Communities for Composting</h2>
-
-[<img src="../img/posters/29.jpg" style="max-height:351px; max-width:351px;">](https://files.osmfoundation.org/s/NQtZpQgzfEa6ZPt)
-
-<h2 id="30">Exploring Temporal Patterns of Mapper Retention in OpenStreetMap</h2>
-
-[<img src="../img/posters/30.jpg" style="max-height:351px; max-width:351px;">](https://files.osmfoundation.org/s/Xp764cemTtfiPbk)
-
-<h2 id="31">Using OpenStreetMap to Document Invasive Species Infestations</h2>
-
-[<img src="../img/posters/31.jpg" style="max-height:351px; max-width:351px;">](https://files.osmfoundation.org/s/gBK86MGXa35waZp)
-
-<h2 id="32">Usage for Mapping the Historic Heritage of Cities</h2>
-
-[<img src="../img/posters/32.jpg" style="max-height:351px; max-width:351px;">](https://files.osmfoundation.org/s/nGzYbndrJ9W6meG)
-
-<h2 id="33">Taking Care of Notes</h2>
-
-[<img src="../img/posters/33.jpg" style="max-height:351px; max-width:351px;">](https://files.osmfoundation.org/s/cgiyMMB5qcmFwRT)
-
-<h2 id="34">Mapeadores Livres UFPR</h2>
-
-[<img src="../img/posters/34.jpg" style="max-height:351px; max-width:351px;">](https://files.osmfoundation.org/s/QY9wnPjTcxsrXzB)
-
-<h2 id="35">Rennes: The Great Fire of 1720</h2>
-
-[<img src="../img/posters/35.jpg" style="max-height:351px; max-width:351px;">](https://files.osmfoundation.org/s/Ra2JHAJED7m96az)
-
-<h2 id="36">Mapping Stories and Memories as a Motivational Path in the Training of Vulnerable Communities Women Mappers</h2>
-
-[<img src="../img/posters/36.jpg" style="max-height:351px; max-width:351px;">](https://files.osmfoundation.org/s/P9qNZpXAW5LMBCJ)
-
-<h2 id="38">Clear around Ukraine and Utilize support</h2>
-
-[<img src="../img/posters/38.jpg" style="max-height:351px; max-width:351px;">](https://files.osmfoundation.org/s/tyHGTRwX2SdSFjM) -->
+[<img src="/thumbnails/12.jpg" style="max-height:200px; max-width:200px;">](/pdf/12_Raquel-posterEXTRA_ExposicaoOBRAC2023_.pdf)
