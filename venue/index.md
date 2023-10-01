@@ -11,6 +11,10 @@ O State of the Map 2023 Será Realizado no Centro Politécnico da UFPR, localiza
 
 <div id="map" style="height:420px; width:100%"></div>
 
+[clique aqui para conferir o mapa completo com os principais pontos de interesse!!](https://sotm-br.github.io/2023/venue/map)
+
+[E aos usuários de OSMAnd, aqui estão esses pontos em formato .gpx](https://sotm-br.github.io/2023/venue/politecnico.gpx)
+
 <h2 class='space-bottom1' id='getting-to'>Acesso</h2>
 
 Para chegar no Centro Politécnico a partir do centro da cidade de ônibus, há duas opções:
@@ -61,7 +65,8 @@ Outra atração popular é o [Trem da Serra do Mar](https://serraverdeexpress.co
       iconSize: [40, 40],
       iconAnchor: [20, 40]
     })}).bindPopup("<h3>Campus Politécnico</h3><p>Local do Evento <a href='https://www.openstreetmap.org/node/11142398666' target='_blank'>Open location on osm.org</a>.</p>").addTo(map);
-  }, false);
 
-  
+
+
+  }, false);
 </script>
