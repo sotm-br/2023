@@ -15,8 +15,7 @@ headings: "1,2,3,4,7,9,10,11,12"
     counter-reset: poster-submission;
   }
   h2::before {
-    counter-increment: poster-submission;
-    content: "Poster " counter(poster-submission) " ";
+
     font-weight: bold;
   }
   #toc li a {
@@ -56,9 +55,9 @@ with open('posters/index.md','w+') as writer:
                     title, authors = line.split(';')
 
                     poster_entry = f"""
-<h2 id="{number}">{title}</h2>
+<h2 id="{number}">{number} - {title}</h2>
 
-[<img src="https://sotm-br.github.io/2023/posters/thumbnails/{number}.jpg" style="max-height:200px; max-width:200px;">](https://sotm-br.github.io/2023/posters/pdf/{files_data[number]})
+[<img src="https://sotm-br.github.io/2023/posters/thumbnails/{number}.jpg" style="max-height:300px; max-width:300px;">](https://sotm-br.github.io/2023/posters/pdf/{files_data[number]})
 """
 
                     writer.write(poster_entry)
