@@ -5,30 +5,15 @@ title: Localização
 headings: "conference-Local,getting-to,sights"
 ---
 
-  <head>
-      <meta charset="utf-8">
-      <meta http-equiv="X-UA-Compatible" content="IE=edge">
-      <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width">
-      <meta name="mobile-web-app-capable" content="yes">
-      <meta name="apple-mobile-web-app-capable" content="yes">
-      <link rel="stylesheet" href="css/leaflet.css">
-      <link rel="stylesheet" href="css/qgis2web.css"><link rel="stylesheet" href="css/fontawesome-all.min.css">
-      <style>
-      #map {
-          width: 1345px;
-          height: 885px;
-      }
-      </style>
-      <title></title>
-  </head>
-
 <h2 class='space-bottom1' id='conference-Local'>Local</h2>
 
-O State of the Map 2023 Será Realizado no Centro Politécnico da UFPR, localizado na Avenida Coronel Francisco H. dos Santos, 100 – Jardim das Américas, Curitiba, PR. A principal entrada do câmpus fica na Avenida Coronel Francisco Heráclito dos Santos e as atividades do evento serão realizadas no auditório do prédio da Administração, indicado no mapa:
+O State of the Map 2023 Será Realizado no Centro Politécnico da UFPR, localizado na Avenida Coronel Francisco H. dos Santos, 100 – Jardim das Américas, Curitiba, PR. A principal entrada do câmpus fica na Avenida Coronel Francisco Heráclito dos Santos e as atividades do evento serão realizadas no auditório do prédio da Administração indicado no mapa, clique para abri-lo na versão interativa!!
 
 <div id="map" style="height:420px; width:100%"></div>
 
-<!-- <iframe id="webmap" name="Mapa" allowfullscreen="true" src="https://github.com/sotm-br/2023/blob/main/venue_test/map/index.html"></iframe> -->
+[clique aqui para conferir o mapa completo com os principais pontos de interesse!!](https://sotm-br.github.io/2023/venue/map)
+
+[E aos usuários de OSMAnd, aqui estão esses pontos em formato .gpx](https://sotm-br.github.io/2023/venue/politecnico.gpx)
 
 <h2 class='space-bottom1' id='getting-to'>Acesso</h2>
 
@@ -66,18 +51,22 @@ Vale conferir ainda as [feiras livres](https://turismo.curitiba.pr.gov.br/conteu
 
 Outra atração popular é o [Trem da Serra do Mar](https://serraverdeexpress.com.br/o-trem/), uma linha turística que sai da Rodoferroviária de Curitiba e desce a Serra do Mar até a cidade de Morretes.
 
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var map = L.map('map').setView([-25.45055,-49.23235], 13);
+    L.control.scale().addTo(map);
+    L.tileLayer('{{ site.map_tiles.url}}', {
+      attribution: '{{ site.map_tiles.attribution }}',
+      maxZoom: {{ site.map_tiles.maxZoom}}
+    }).addTo(map);
+    map.scrollWheelZoom.disable();
+    L.marker([ -25.4505655, -49.2324812], {icon: L.icon({
+      iconUrl: "{{ "/img/logo/sotm_br-logo.svg" | prepend: site.baseurl }}",
+      iconSize: [40, 40],
+      iconAnchor: [20, 40]
+    })}).bindPopup("<h3>Campus Politécnico</h3><p>Local do Evento <a href='https://www.openstreetmap.org/node/11142398666' target='_blank'>Open location on osm.org</a>.</p><p>Mapa detalhado:<a href='https://sotm-br.github.io/2023/venue/map' target='_blank'>aqui!</a>.</p>").addTo(map);
 
-  <script src="js/qgis2web_expressions.js"></script>
 
-  <script src="js/leaflet.js"></script>
-        <script src="js/leaflet.rotatedMarker.js"></script>
-        <script src="js/leaflet.pattern.js"></script>
-        <script src="js/leaflet-hash.js"></script>
-        <script src="js/Autolinker.min.js"></script>
-        <script src="js/rbush.min.js"></script>
-        <script src="js/labelgun.min.js"></script>
-        <script src="js/labels.js"></script>
-        <script src="data/r_1.js"></script>
-        <script src="data/p_2.js"></script>
-        <script src="map.js"></script>
-       
+
+  }, false);
+</script>
