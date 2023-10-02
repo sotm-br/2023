@@ -7,19 +7,13 @@ headings: "conference-Local,getting-to,sights"
 
 <h2 class='space-bottom1' id='conference-Local'>Local</h2>
 
-O State of the Map 2023 Será Realizado no Centro Politécnico da UFPR, localizado na Avenida Coronel Francisco H. dos Santos, 100 – Jardim das Américas, Curitiba, PR. A principal entrada do câmpus fica na Avenida Coronel Francisco Heráclito dos Santos e as atividades do evento serão realizadas no auditório do prédio da Administração indicado conforme indicado:
+O State of the Map 2023 Será Realizado no Centro Politécnico da UFPR, localizado na Avenida Coronel Francisco H. dos Santos, 100 – Jardim das Américas, Curitiba, PR. A principal entrada do câmpus fica na Avenida Coronel Francisco Heráclito dos Santos e as atividades do evento serão realizadas no auditório do prédio da Administração, indicado no mapa:
 
-### clique na imagem para abrir o mapa na versão interativa!!
+<div id="map" style="height:420px; width:100%"></div>
 
-<!-- <div id="map" style="height:420px; width:100%"></div>
+[clique aqui para conferir o mapa completo com os principais pontos de interesse!!](https://sotm-br.github.io/2023/venue/map)
 
-[clique aqui para conferir o mapa completo com os principais pontos de interesse!!](https://sotm-br.github.io/2023/venue/map) -->
-
-<!-- ![Clique para conferir o mapa interativo com os principais pontos de interesse!]() -->
-
-<a href="https://sotm-br.github.io/2023/venue/map" rel="Clique para conferir o mapa interativo com os principais pontos de interesse!">![Clique para conferir o mapa interativo com os principais pontos de interesse!!](https://sotm-br.github.io/2023/venue/snapshot.png)</a>
-
-[E aos usuários de OSMAnd, aqui estão os mesmos pontos em formato .gpx](https://sotm-br.github.io/2023/venue/politecnico.gpx)
+[E aos usuários de OSMAnd, aqui estão esses pontos em formato .gpx](https://sotm-br.github.io/2023/venue/politecnico.gpx)
 
 <h2 class='space-bottom1' id='getting-to'>Acesso</h2>
 
