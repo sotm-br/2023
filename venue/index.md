@@ -2,12 +2,12 @@
 layout: page-with-toc
 #title: Local &amp; Transportation
 title: Localização
-headings: "conference-Local,getting-to,sights"
+headings: "conference-Local,getting-to,food,accomodation,sights"
 ---
 
 <h2 class='space-bottom1' id='conference-Local'>Local</h2>
 
-O State of the Map 2023 Será Realizado no Centro Politécnico da UFPR, localizado na Avenida Coronel Francisco H. dos Santos, 100 – Jardim das Américas, Curitiba, PR. A principal entrada do câmpus fica na Avenida Coronel Francisco Heráclito dos Santos e as atividades do evento serão realizadas no auditório do prédio da Administração indicado conforme indicado:
+O State of the Map 2023 Será Realizado no Centro Politécnico da UFPR, localizado na Avenida Coronel Francisco H. dos Santos, 100 – Jardim das Américas, Curitiba, PR. A principal entrada do câmpus fica na Avenida Coronel Francisco Heráclito dos Santos e as atividades do evento serão realizadas no auditório do prédio da Administração, conforme indicado:
 
 ### clique na imagem para abrir o mapa na versão interativa!!
 
