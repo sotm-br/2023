@@ -2,7 +2,7 @@
 layout: page-with-toc
 #title: Local &amp; Transportation
 title: Localização
-headings: "conference-Local,getting-to,food,accomodation,sights"
+headings: "conference-Local,getting-to,food,accommodation,sights"
 ---
 
 <h2 class='space-bottom1' id='conference-Local'>Local</h2>
