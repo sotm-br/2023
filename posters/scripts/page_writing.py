@@ -35,7 +35,7 @@ Aqui estão os anais contendo os reumos inscritos no evento e os pôsteres subme
 
 [<img src="https://sotm-br.github.io/2023/posters/anais_thumb.png" style="max-height:400px; max-width:400px;">](https://sotm-br.github.io/2023/posters/anais.pdf)
 
-### Pôsteres:
+## Pôsteres:
 
 '''
 
