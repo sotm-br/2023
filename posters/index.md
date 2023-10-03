@@ -1,8 +1,8 @@
 ---
 layout: page-with-toc
-title: "Pôsteres"
+title: "Publicações"
 titlecontent: ""
-headings: "1,2,3,4,7,9,10,11,12"
+headings: "Anais,1,2,3,4,7,9,10,11,12"
 ---
 
 
@@ -23,9 +23,14 @@ headings: "1,2,3,4,7,9,10,11,12"
 
 <!-- Many followed the call for posters and the results are AMAZING. We thank all participants for the great work! Some more information can be found on our [call for posters](/calls/posters) page. -->
 
-Aqui estão os pôsteres que foram enviados!! 
+
+Aqui estão os anais contendo os reumos inscritos no evento e os pôsteres submetidos!
 
 *clique nas miniaturas para baixar os arquivos PDF*
+
+<h2 id="Anais">Anais do Evento</h2>
+
+[<img src="https://sotm-br.github.io/2023/posters/thumbnails/anais_thumb.png" style="max-height:400px; max-width:400px;">](https://sotm-br.github.io/2023/posters/anais.pdf)
 
 
 <h2 id="1">1 - Se ache na UFBA: o mapa do calouro perdido!</h2>
