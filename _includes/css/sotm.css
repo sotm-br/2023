@@ -78,7 +78,8 @@ div.affix {
     /*color: {{ site.color.links-light }};*/
     /*color: transparent;*/
     /*color: rgba(0,0,0,0);*/
-    color: rgba(98, 255, 0, 1);
+    /*color: rgba(98, 255, 0, 1);*/
+    color: rgba(30, 86, 0, 1);
     font-weight: bold;    
     background-color: rgba(255,255,255,0.7);
 }
