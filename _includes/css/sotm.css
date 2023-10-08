@@ -78,7 +78,8 @@ div.affix {
     /*color: {{ site.color.links-light }};*/
     /*color: transparent;*/
     /*color: rgba(0,0,0,0);*/
-    color: rgb(0, 255, 0, 1);
+    color: rgb(128, 255, 0, 1);
+    background-color: rgba(255,255,255,.15);
 }
 
 .top-nav-collapse, .top-nav-collapse a, .top-nav-collapse a:hover,
