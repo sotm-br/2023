@@ -80,7 +80,7 @@ div.affix {
     /*color: rgba(0,0,0,0);*/
     color: rgb(128, 255, 0, 1);
     font-weight: bold;
-    background-color: rgba(255,255,255,.15);
+    background-color: rgba(255,255,255,.45);
 }
 
 .top-nav-collapse, .top-nav-collapse a, .top-nav-collapse a:hover,
