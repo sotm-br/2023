@@ -76,8 +76,9 @@ div.affix {
 
 .navbar, .navbar a, .navbar a:hover {
     /*color: {{ site.color.links-light }};*/
-    color: transparent;
-    color: rgba(0,0,0,0);
+    /*color: transparent;*/
+    /*color: rgba(0,0,0,0);*/
+    color: rgb(0, 255, 0, 1);
 }
 
 .top-nav-collapse, .top-nav-collapse a, .top-nav-collapse a:hover,
@@ -94,7 +95,8 @@ div.affix {
 
 nav a, .nav a {
     text-decoration: none;
-    font-weight: 600;
+    /*font-weight: 600;*/
+    font-weight: 500;
 
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
