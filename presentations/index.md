@@ -31,7 +31,7 @@ Aqui estão os arquivos das apresentações realizadas no SotM Brasil 2023, que 
 
 <h2 id="1">1 - </h2>
 
-[<img src="https://sotm-br.github.io/2023/presentations/thumbnails/ap1.jpg" style="max-height:300px; max-width:300px;">](https://sotm-br.github.io/2023/presentations/pdf/ap1_sotmbr2023.pdf)
+[<img src="https://sotm-br.github.io/2023/presentations/thumbnails/ap1.jpg" style="max-height:50%; max-width:50%;">](https://sotm-br.github.io/2023/presentations/pdf/ap1_sotmbr2023.pdf)
 
 <h2 id="2">2 - </h2>
 
