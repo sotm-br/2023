@@ -1,12 +1,10 @@
-
-<!--
 ---
 layout: page-with-toc
 title: "Apresentações"
 titlecontent: ""
 headings: "Anais,1,2,3,4,7,9,10,11,12"
 ---
-
+<!--
 <style>
   body {
     counter-reset: poster-submission;
@@ -19,9 +17,7 @@ headings: "Anais,1,2,3,4,7,9,10,11,12"
     padding-top: 4px;
     padding-bottom: 4px;
   }
-</style>
-
--->
+</style>-->
 
 Aqui estão os arquivos das apresentações realizadas no SotM Brasil 2023, que foram disponibilizadas pelos(as) autores(as):
 
