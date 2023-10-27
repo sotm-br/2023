@@ -2,18 +2,14 @@
 layout: page-with-toc
 title: "Apresentações"
 titlecontent: ""
-headings: "Anais,1,2,3,4,7,9,10,11,12"
+headings: "13,15,7,6,10,11,8,17,1,4,2,15,14,9,16,18,3,12"
 ---
-
+<!--
 <style>
   body {
     counter-reset: poster-submission;
   }
-  h3::before {
-
-    font-weight: bold;
-  }
-    h4::before {
+  h2::before {
 
     font-weight: bold;
   }
@@ -21,6 +17,7 @@ headings: "Anais,1,2,3,4,7,9,10,11,12"
     padding-top: 4px;
     padding-bottom: 4px;
   }
+  -->
 
 
 Aqui estão os arquivos das apresentações realizadas no SotM Brasil 2023, que foram disponibilizadas pelos(as) autores(as). *Clique nas imagens para baixar os arquivos PDF*
@@ -28,7 +25,7 @@ Aqui estão os arquivos das apresentações realizadas no SotM Brasil 2023, que 
 ## Apresentações:
 
 <!-- apresentacoes ordenadas alfabeticamente de A a Z -->
-<!-- lista atualizada em 27 out 2023 ... aguardando os demais que porventura enviarem -->
+<!-- lista atualizada em 27 out 2023 aguardando os demais que porventura enviarem -->
 
 <h3 id="13">13 - AUTOMATIZAÇÃO DO PROCESSO DE IMPORTAÇÃO E CONFLAÇÃO MASSIVA NO OPENSTREETMAP</h3>
 <h4>Matheus Gomes Correia, Kauê de Moraes Vestena, Gustavo Soares, Silvana Phillipi Camboim, Adelino Ferreira</h4>
