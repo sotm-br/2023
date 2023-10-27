@@ -61,7 +61,7 @@ Arquivos das apresentações realizadas no SotM Brasil 2023, que foram gentilmen
 <hr>
 
 
-<h3 id="10">CURSO DE CAPACITAÇÃO EM MAPEAMENTO COM OPENSTREETMAP 2023: RESILTADOS E APREENSÕES</h3>
+<h3 id="10">CURSO DE CAPACITAÇÃO EM MAPEAMENTO COM OPENSTREETMAP 2023: RESULTADOS E APREENSÕES</h3>
 *Raquel Dezidério Souto*
 
 [<img src="https://sotm-br.github.io/2023/presentations/thumbnails/ap10.jpg" style="max-height:300px; max-width:300px;">](https://sotm-br.github.io/2023/presentations/pdf/ap10_sotmbr2023.pdf)
@@ -77,7 +77,7 @@ Arquivos das apresentações realizadas no SotM Brasil 2023, que foram gentilmen
 <hr>
 
 
-<h3 id="8">IMPORTAÇÃO DE DADOS: AINDA É UM TABU?</h3>
+<h3 id="8">IMPORTAÇÃO DE DADOS. AINDA É UM TABU?</h3>
 *Matheus Gomes Correia*
 
 [<img src="https://sotm-br.github.io/2023/presentations/thumbnails/ap8.jpg" style="max-height:300px; max-width:300px;">](https://sotm-br.github.io/2023/presentations/pdf/ap8_sotmbr2023.pdf)
