@@ -29,7 +29,7 @@ Arquivos das apresentações realizadas no SotM Brasil 2023, que foram gentilmen
 <!-- lista atualizada em 27 out 2023 aguardando os demais que porventura enviarem -->
 
 <h3 id="13">AUTOMATIZAÇÃO DO PROCESSO DE IMPORTAÇÃO E CONFLAÇÃO MASSIVA NO OPENSTREETMAP</h3>
-<h4>Matheus Gomes Correia, Kauê de Moraes Vestena, Gustavo Soares, Silvana Phillipi Camboim, Adelino Ferreira</h4>
+Matheus Gomes Correia, Kauê de Moraes Vestena, Gustavo Soares, Silvana Phillipi Camboim, Adelino Ferreira
 
 [<img src="https://sotm-br.github.io/2023/presentations/thumbnails/ap13.jpg" style="max-height:300px; max-width:300px;">](https://sotm-br.github.io/2023/presentations/pdf/ap13_sotmbr2023.pdf)
 
