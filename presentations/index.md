@@ -138,7 +138,8 @@ Arquivos das apresentações realizadas no SotM Brasil 2023, que foram gentilmen
 
 <hr>
 
-<h3 id="20">MAPEO HUMANITARIO Y  CICLÓN YAKU EN CHOSICA</h3>
+<h3 id="20">MAPEO HUMANITARIO Y CICLÓN YAKU EN CHOSICA</h3>
+*Keen Ferrer Q. Mamani*
 
 [<img src="https://sotm-br.github.io/2023/presentations/thumbnails/ap20.jpg" style="max-height:300px; max-width:300px;">](https://sotm-br.github.io/2023/presentations/pdf/ap20_sotmbr2023.pdf)
 
