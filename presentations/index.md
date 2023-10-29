@@ -2,7 +2,7 @@
 layout: page-with-toc
 title: "Apresentações"
 titlecontent: ""
-headings: "13,5,7,6,10,11,8,17,1,4,2,15,14,9,16,18,3,12"
+headings: "13,5,19,7,6,10,11,8,17,1,4,2,21,15,20,14,9,16,18,3,12"
 ---
 <!--
 <style>
@@ -36,11 +36,17 @@ Arquivos das apresentações realizadas no SotM Brasil 2023, que foram gentilmen
 
 <hr>
 
-
 <h3 id="5">AVALIAÇÃO DA ACURÁCIA POSICIONAL DE EIXOS VIÁRIOS DA PLATAFORMA DE MAPEAMENTO COLABORATIVO DO OPENSTREETMAP – UM ESTUDO DE CASO NO MUNICÍPIO DO RIO DE JANEIRO - RJ</h3>
 *Auzenan Pereira de Sá, Fernando Dias de Almeida, Guilherme Damasceno Raposo, Jonatas Goulart Marinho, Louise Gil Soares Ferreira e Elias Nasr Naim Elias*
 
 [<img src="https://sotm-br.github.io/2023/presentations/thumbnails/ap5.jpg" style="max-height:300px; max-width:300px;">](https://sotm-br.github.io/2023/presentations/pdf/ap5_sotmbr2023.pdf)
+
+<hr>
+
+<h3 id="19">AVALIAÇÃO DA COMPLETUDE DE DADOS OPENSTREETMAP, ALVARÃES, AMAZONAS, BRASIL</h3>
+*Ana Luísa Teixeira, Silvia Elena Ventorini, Francisco Davy Braz Rabelo*
+
+[<img src="https://sotm-br.github.io/2023/presentations/thumbnails/ap19.jpg" style="max-height:300px; max-width:300px;">](https://sotm-br.github.io/2023/presentations/pdf/ap19_sotmbr2023.pdf)
 
 <hr>
 
@@ -117,6 +123,14 @@ Arquivos das apresentações realizadas no SotM Brasil 2023, que foram gentilmen
 <hr>
 
 
+<h3 id="21">MAPEAMENTO DE POPULAÇÕES EM ZONAS DE RISCO DE ALAGAMENTO NO BAIXO SÃO FRANCISCO</h3>
+*Igor da Mata*
+
+[<img src="https://sotm-br.github.io/2023/presentations/thumbnails/ap21.jpg" style="max-height:300px; max-width:300px;">](https://sotm-br.github.io/2023/presentations/pdf/ap21_sotmbr2023.pdf)
+
+<hr>
+
+
 <h3 id="15">MAPEAMENTO DOS ESPAÇOS INTERNOS DA UNIVERSIDADE FEDERAL DO ABC: PROJETO PILOTO</h3>
 *Luis Felipe Bortolatto da Cunha, Ana Carolina Cabral Carneiro, Lucca Leon Franco, Melissa Souza Jorge, Roberta Perez de Magalhães e Carolina Moutinho Duque de Pinho*
 
@@ -124,6 +138,11 @@ Arquivos das apresentações realizadas no SotM Brasil 2023, que foram gentilmen
 
 <hr>
 
+<h3 id="20">MAPEO HUMANITARIO Y  CICLÓN YAKU EN CHOSICA</h3>
+
+[<img src="https://sotm-br.github.io/2023/presentations/thumbnails/ap20.jpg" style="max-height:300px; max-width:300px;">](https://sotm-br.github.io/2023/presentations/pdf/ap20_sotmbr2023.pdf)
+
+<hr>
 
 <h3 id="14">MELHORIA DO OSM COM MAPAS OFICIAIS LIBERTADOS PELO INSTITUTO ADDRESSFORALL</h3>
 *Igor Eliezer Borges*
