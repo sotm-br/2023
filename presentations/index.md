@@ -2,7 +2,7 @@
 layout: page-with-toc
 title: "Apresentações"
 titlecontent: ""
-headings: "13,5,19,7,6,10,11,8,17,1,4,2,21,15,20,14,9,16,18,3,12"
+headings: "13,5,19,7,6,10,22,11,8,17,1,4,2,21,15,20,14,9,16,18,3,12"
 ---
 <!--
 <style>
@@ -71,6 +71,13 @@ Arquivos das apresentações realizadas no SotM Brasil 2023, que foram gentilmen
 *Raquel Dezidério Souto*
 
 [<img src="https://sotm-br.github.io/2023/presentations/thumbnails/ap10.jpg" style="max-height:300px; max-width:300px;">](https://sotm-br.github.io/2023/presentations/pdf/ap10_sotmbr2023.pdf)
+
+<hr>
+
+<h3 id="22">DIVISAS ADMINISTRATIVAS NOS EDITORES ID E JOSM</h3>
+*Igor Eliezer Borges*
+
+[<img src="https://sotm-br.github.io/2023/presentations/thumbnails/ap22.jpg" style="max-height:300px; max-width:300px;">](https://sotm-br.github.io/2023/presentations/pdf/ap22_sotmbr2023.pdf)
 
 <hr>
 
